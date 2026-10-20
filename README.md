@@ -58,6 +58,16 @@ The project includes different panels for administrators, teachers and parents, 
 
 [View Kreş Takip Sistemi](https://github.com/NilAkcay/Kres-Takip-Sistemi)
 
+### Smart Irrigation Decision Support System
+
+A machine learning-based application developed with Python, Streamlit, and Scikit-learn.
+
+- Random Forest Regression for irrigation prediction
+- Model evaluation using MAE, RMSE, and R²
+- Weather API integration and SQLite database
+
+[View Smart Irrigation Project](https://github.com/NilAkcay/akilli-sulama)
+
 ## Currently Learning
 
 - Python for data analysis
@@ -73,4 +83,4 @@ The project includes different panels for administrators, teachers and parents, 
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: www.linkedin.com/in/nil-akcay
